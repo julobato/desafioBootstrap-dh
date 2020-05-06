@@ -1,0 +1,18 @@
+.sb-topnav h5{
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:hover p{
+    text-decoration: underline;
+}
+
+footer{
+    font-size: small;
+    color: gray;
+    padding: 20px 0;
+    background-color: rgb(240, 240, 240);
+}
