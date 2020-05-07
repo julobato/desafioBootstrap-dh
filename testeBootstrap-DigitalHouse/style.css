@@ -91,3 +91,7 @@ svg {
 .card-body img{
     width:100%;
 }
+
+#age{
+    min-width: 4em;
+}
