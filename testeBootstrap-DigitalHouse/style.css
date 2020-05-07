@@ -1,8 +1,13 @@
-
 body{
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", 
     Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, 
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+header.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+   
 }
 
 .dropdown-toggle, .dropdown-toggle:hover{
@@ -17,6 +22,14 @@ body{
 .sb-topnav h5{
     color: white;
 }
+path.currentColor {
+    fill: white
+}
+
+form.align{
+    padding-top: 13px;
+}
+
 
 a:hover{
     text-decoration: none;
@@ -73,8 +86,4 @@ svg {
     background: #7386D5;
     color: #fff;
     transition: all 0.3s;
-}
-
-.card-body img{
-    width:100%;
 }
