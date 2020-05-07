@@ -87,3 +87,7 @@ svg {
     color: #fff;
     transition: all 0.3s;
 }
+
+.card-body img{
+    width:100%;
+}
