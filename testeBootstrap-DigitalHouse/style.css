@@ -62,3 +62,7 @@ svg {
     display: block;
     content: "\2191";
 }
+
+.card-body img{
+    width:100%;
+}
